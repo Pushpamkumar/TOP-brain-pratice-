@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\bin\Debug\net10.0\question1.exe
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\bin\Debug\net10.0\question1.deps.json
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\bin\Debug\net10.0\question1.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\bin\Debug\net10.0\question1.dll
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\bin\Debug\net10.0\question1.pdb
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.dll
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\refint\question1.dll
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.pdb
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\question1.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\Top-Brain\question1\obj\Debug\net10.0\ref\question1.dll
